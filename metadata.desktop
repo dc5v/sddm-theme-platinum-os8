@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Platinum-OS8
+Description=Platinum OS8 Style SDDM Theme
+Author=Kinomoto
+Copyright=
+License=GPLv3
+Type=sddm-theme
+Version=0.1
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Email=dev@dc5v.com
+Theme-Id=platinum-os8
+Theme-API=2.0
+QtVersion=6
